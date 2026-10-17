@@ -1,0 +1,18 @@
+[
+  {
+    "repo": "Rin-0617/PartySieve",
+    "overrides": {
+      "Tags": ["party finder", "filter", "spam"]
+    }
+  },
+  {
+    "repo": "Rin-0617/Raidflow",
+    "overrides": {
+      "Description": "タイムライン作成、PTスロット別の軽減割り当て、ギミックメモのオーバーレイ表示、FFLogs URLからの下書き生成、.radflowのエクスポート/合成ができます。",
+      "Tags": ["combat", "raid", "timeline", "mitigation"]
+    }
+  },
+  {
+    "repo": "Rin-0617/BeastHelper"
+  }
+]

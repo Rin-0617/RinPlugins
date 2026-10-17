@@ -1,0 +1,59 @@
+[
+  {
+    "Author": "Rin",
+    "Name": "BeastHelper",
+    "InternalName": "BeastHelper",
+    "AssemblyVersion": "0.1.4.0",
+    "Description": "Navigate to known Beastmaster recruit enemies from Beast Log data.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Rin-0617/BeastHelper",
+    "Tags": [
+      "beastmaster",
+      "navigation",
+      "vnavmesh"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Navigate to known Beastmaster recruit enemies.",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Rin-0617/BeastHelper/releases/download/v0.1.4/BeastHelper-v0.1.4.zip",
+    "DownloadLinkUpdate": "https://github.com/Rin-0617/BeastHelper/releases/download/v0.1.4/BeastHelper-v0.1.4.zip",
+    "DownloadLinkTesting": "https://github.com/Rin-0617/BeastHelper/releases/download/v0.1.4/BeastHelper-v0.1.4.zip",
+    "LastUpdate": 1789539492,
+    "IsHide": false,
+    "IsTestingExclusive": false
+  },
+  {
+    "Author": "Rin",
+    "Name": "RaidFlow",
+    "InternalName": "RaidFlow",
+    "AssemblyVersion": "0.1.15.0",
+    "MinimumDalamudVersion": "15.0.0.0",
+    "Description": "タイムライン作成、PTスロット別の軽減割り当て、ギミックメモのオーバーレイ表示、FFLogs URLからの下書き生成、.radflowのエクスポート/合成ができます。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Rin-0617/Raidflow",
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Rin-0617/Raidflow/master/images/icon.png",
+    "Punchline": "固定攻略向けのタイムラインメモ/軽減計画ツール",
+    "AcceptsFeedback": false,
+    "DownloadLinkInstall": "https://github.com/Rin-0617/Raidflow/releases/download/v0.1.15/RaidFlow_v0.1.15.zip",
+    "DownloadLinkUpdate": "https://github.com/Rin-0617/Raidflow/releases/download/v0.1.15/RaidFlow_v0.1.15.zip",
+    "DownloadLinkTesting": "https://github.com/Rin-0617/Raidflow/releases/download/v0.1.15/RaidFlow_v0.1.15.zip",
+    "LastUpdate": 1788967806,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "Tags": [
+      "combat",
+      "raid",
+      "timeline",
+      "mitigation"
+    ]
+  }
+]
