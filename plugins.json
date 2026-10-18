@@ -14,5 +14,11 @@
   },
   {
     "repo": "Rin-0617/BeastHelper"
+  },
+  {
+    "repo": "Rin-0617/ReplayDrill",
+    "overrides": {
+      "Tags": ["replay", "practice", "raid"]
+    }
   }
 ]
