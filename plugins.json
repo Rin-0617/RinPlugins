@@ -2,7 +2,8 @@
   {
     "repo": "Rin-0617/PartySieve",
     "overrides": {
-      "Tags": ["party finder", "filter", "spam"]
+      "Tags": ["party finder", "filter", "spam"],
+      "IconUrl": "https://raw.githubusercontent.com/Rin-0617/PartySieve/master/images/icon.png"
     }
   },
   {
@@ -18,7 +19,8 @@
   {
     "repo": "Rin-0617/ReplayDrill",
     "overrides": {
-      "Tags": ["replay", "practice", "raid"]
+      "Tags": ["replay", "practice", "raid"],
+      "IconUrl": "https://raw.githubusercontent.com/Rin-0617/ReplayDrill/master/images/icon.png"
     }
   }
 ]
