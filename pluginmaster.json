@@ -30,7 +30,7 @@
     "Author": "Rin",
     "Name": "PartySieve",
     "InternalName": "PartySieve",
-    "AssemblyVersion": "0.1.2.0",
+    "AssemblyVersion": "0.1.3.0",
     "MinimumDalamudVersion": "15.0.0.0",
     "Description": "リージョン内フリーマッチングで増えたパーティ募集から、検索妨害のような募集を非表示にし、AND/OR/正規表現のルールで絞り込み、募集主のホームDCを表示します。",
     "ApplicableVersion": "any",
@@ -40,20 +40,20 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Rin-0617/PartySieve/master/images/icon.png",
     "Punchline": "PT募集のスパム除去・高機能フィルター・募集主DC表示",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/Rin-0617/PartySieve/releases/download/v0.1.2/PartySieve_v0.1.2.zip",
-    "DownloadLinkUpdate": "https://github.com/Rin-0617/PartySieve/releases/download/v0.1.2/PartySieve_v0.1.2.zip",
-    "DownloadLinkTesting": "https://github.com/Rin-0617/PartySieve/releases/download/v0.1.2/PartySieve_v0.1.2.zip",
-    "LastUpdate": 1792427446,
+    "DownloadLinkInstall": "https://github.com/Rin-0617/PartySieve/releases/download/v0.1.3/PartySieve_v0.1.3.zip",
+    "DownloadLinkUpdate": "https://github.com/Rin-0617/PartySieve/releases/download/v0.1.3/PartySieve_v0.1.3.zip",
+    "DownloadLinkTesting": "https://github.com/Rin-0617/PartySieve/releases/download/v0.1.3/PartySieve_v0.1.3.zip",
+    "LastUpdate": 1792541602,
     "IsHide": false,
     "IsTestingExclusive": false,
     "Tags": [
       "party finder",
       "filter",
       "spam"
-    ],
-    "IconUrl": "https://raw.githubusercontent.com/Rin-0617/PartySieve/master/images/icon.png"
+    ]
   },
   {
     "Author": "Rin",
@@ -89,7 +89,7 @@
     "Author": "Rin",
     "Name": "ReplayDrill",
     "InternalName": "ReplayDrill",
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.1.1.0",
     "MinimumDalamudVersion": "15.0.0.0",
     "Description": "A Realm Recorded のリプレイ再生中に、好きなキャラを自分で動かしてギミックの回避を練習します。敵の技が発動した瞬間に、そのキャラが範囲内にいたかを判定します。",
     "ApplicableVersion": "any",
@@ -99,19 +99,19 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Rin-0617/ReplayDrill/master/images/icon.png",
     "Punchline": "リプレイでギミック回避を練習",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/Rin-0617/ReplayDrill/releases/download/v0.1.0/ReplayDrill_v0.1.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Rin-0617/ReplayDrill/releases/download/v0.1.0/ReplayDrill_v0.1.0.zip",
-    "DownloadLinkTesting": "https://github.com/Rin-0617/ReplayDrill/releases/download/v0.1.0/ReplayDrill_v0.1.0.zip",
-    "LastUpdate": 1792335047,
+    "DownloadLinkInstall": "https://github.com/Rin-0617/ReplayDrill/releases/download/v0.1.1/ReplayDrill_v0.1.1.zip",
+    "DownloadLinkUpdate": "https://github.com/Rin-0617/ReplayDrill/releases/download/v0.1.1/ReplayDrill_v0.1.1.zip",
+    "DownloadLinkTesting": "https://github.com/Rin-0617/ReplayDrill/releases/download/v0.1.1/ReplayDrill_v0.1.1.zip",
+    "LastUpdate": 1792541591,
     "IsHide": false,
     "IsTestingExclusive": false,
     "Tags": [
       "replay",
       "practice",
       "raid"
-    ],
-    "IconUrl": "https://raw.githubusercontent.com/Rin-0617/ReplayDrill/master/images/icon.png"
+    ]
   }
 ]
