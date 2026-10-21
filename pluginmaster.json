@@ -52,7 +52,8 @@
       "party finder",
       "filter",
       "spam"
-    ]
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/Rin-0617/PartySieve/master/images/icon.png"
   },
   {
     "Author": "Rin",
@@ -110,6 +111,7 @@
       "replay",
       "practice",
       "raid"
-    ]
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/Rin-0617/ReplayDrill/master/images/icon.png"
   }
 ]
