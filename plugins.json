@@ -22,5 +22,13 @@
       "Tags": ["replay", "practice", "raid"],
       "IconUrl": "https://raw.githubusercontent.com/Rin-0617/ReplayDrill/master/images/icon.png"
     }
+  },
+  {
+    "repo": "Rin-0617/ReplayToolboxDist",
+    "overrides": {
+      "Tags": ["replay", "convert", "split"],
+      "IconUrl": "https://raw.githubusercontent.com/Rin-0617/ReplayToolboxDist/main/images/icon.png",
+      "RepoUrl": "https://github.com/Rin-0617/ReplayToolboxDist"
+    }
   }
 ]
