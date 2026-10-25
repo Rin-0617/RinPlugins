@@ -3,8 +3,8 @@
     "Author": "Rin",
     "Name": "BeastHelper",
     "InternalName": "BeastHelper",
-    "AssemblyVersion": "0.1.7.0",
-    "Description": "Navigate to known Beastmaster recruit enemies from Beast Log data.",
+    "AssemblyVersion": "0.2.0.0",
+    "Description": "Beastmaster helper: assists the 闘獣練 (Crucible of the Unbroken) loop — entry, team formation, whistle assignment, treasure/shop, and recovery items — and navigates to known recruit enemies from Beast Log data. Automation is experimental and off by default.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Rin-0617/BeastHelper",
     "Tags": [
@@ -17,12 +17,13 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Punchline": "Navigate to known Beastmaster recruit enemies.",
+    "IconUrl": "https://raw.githubusercontent.com/Rin-0617/BeastHelper/main/images/icon.png",
+    "Punchline": "Beastmaster Crucible auto-assist and recruit navigation.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/Rin-0617/BeastHelper/releases/download/v0.1.7/BeastHelper-v0.1.7.zip",
-    "DownloadLinkUpdate": "https://github.com/Rin-0617/BeastHelper/releases/download/v0.1.7/BeastHelper-v0.1.7.zip",
-    "DownloadLinkTesting": "https://github.com/Rin-0617/BeastHelper/releases/download/v0.1.7/BeastHelper-v0.1.7.zip",
-    "LastUpdate": 1792452482,
+    "DownloadLinkInstall": "https://github.com/Rin-0617/BeastHelper/releases/download/v0.2.0/BeastHelper-v0.2.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Rin-0617/BeastHelper/releases/download/v0.2.0/BeastHelper-v0.2.0.zip",
+    "DownloadLinkTesting": "https://github.com/Rin-0617/BeastHelper/releases/download/v0.2.0/BeastHelper-v0.2.0.zip",
+    "LastUpdate": 1792961494,
     "IsHide": false,
     "IsTestingExclusive": false
   },
@@ -112,6 +113,35 @@
       "replay",
       "practice",
       "raid"
+    ]
+  },
+  {
+    "Author": "Rin",
+    "Name": "ReplayToolbox",
+    "InternalName": "ReplayToolbox",
+    "AssemblyVersion": "1.0.0.0",
+    "MinimumDalamudVersion": "15.0.0.0",
+    "Description": "コンテンツリプレイ（A Realm Recorded）のファイルを、プルごとに切り出して共有しやすくします。パッチで再生できなくなった古いリプレイを、今のバージョンで再生できるように変換します。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Rin-0617/ReplayToolboxDist",
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Rin-0617/ReplayToolboxDist/main/images/icon.png",
+    "Punchline": "リプレイをプルごとに切り出し、古いリプレイを変換",
+    "AcceptsFeedback": false,
+    "DownloadLinkInstall": "https://github.com/Rin-0617/ReplayToolboxDist/releases/download/v1.0.0/ReplayToolbox_v1.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Rin-0617/ReplayToolboxDist/releases/download/v1.0.0/ReplayToolbox_v1.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/Rin-0617/ReplayToolboxDist/releases/download/v1.0.0/ReplayToolbox_v1.0.0.zip",
+    "LastUpdate": 1792963000,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "Tags": [
+      "replay",
+      "convert",
+      "split"
     ]
   }
 ]
