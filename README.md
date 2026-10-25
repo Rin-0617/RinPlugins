@@ -18,5 +18,6 @@ https://raw.githubusercontent.com/Rin-0617/RinPlugins/main/pluginmaster.json
 |---|---|
 | [PartySieve](https://github.com/Rin-0617/PartySieve) | パーティ募集のスパム除去、高機能フィルター、募集主のDC表示 |
 | [RaidFlow](https://github.com/Rin-0617/Raidflow) | 固定攻略向けのタイムラインメモ、軽減計画 |
-| [BeastHelper](https://github.com/Rin-0617/BeastHelper) | ビーストマスターの仲間候補への移動補助 |
+| [BeastHelper](https://github.com/Rin-0617/BeastHelper) | 魔獣使い（Beastmaster）の闘獣練（Crucible）自動アシスト、魔獣捕獲ナビ |
 | [ReplayDrill](https://github.com/Rin-0617/ReplayDrill) | A Realm Recordedのリプレイでギミック回避を練習 |
+| [ReplayToolbox](https://github.com/Rin-0617/ReplayToolboxDist) | コンテンツリプレイのプルごと切り出し・バージョン変換（利用にはDiscordロール認証が必要） |
